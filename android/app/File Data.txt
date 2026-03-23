@@ -1,0 +1,6 @@
+Bundle Id: com.fs.focus.keeper
+
+storePassword=FK_Strong_Pass_2026_!
+keyPassword=FK_Strong_Pass_2026_!
+keyAlias=FocusKeeperKey
+storeFile=focus_keeper_key.jks
